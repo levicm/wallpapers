@@ -3,7 +3,7 @@ title: Mobile
 description: Mobile-friendly aspect ratio images.
 menus: "main"
 resources:
-  - src: mb-010.jpg
+  - src: Purple Galaxy_6775.jpeg
     params:
       cover: true
 ---
