@@ -1,0 +1,4 @@
+---
+title: Arts
+categories: ["desktop"]
+---
